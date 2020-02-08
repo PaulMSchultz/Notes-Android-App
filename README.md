@@ -17,3 +17,11 @@ To install this .apk file, download it to your device for automatic install or s
 ### Built With
 
 * Visual Studio 2019 [XAMARIN.Forms] - ONLY Android devices in version 1.0 for now
+
+### Screenshots
+
+![Screenshots](C:\Users\schul\source\repos\Notes_4_Droids/Notes_4_Droids.png)
+
+![Screenshots](C:\Users\schul\source\repos\Notes_4_Droids/Notes_4_Droids2.png)
+
+![Screenshots](C:\Users\schul\source\repos\Notes_4_Droids/Notes_4_Droids3.png)
