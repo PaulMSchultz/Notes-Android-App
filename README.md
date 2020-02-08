@@ -20,8 +20,4 @@ To install this .apk file, download it to your device for automatic install or s
 
 ### Screenshots
 
-![Screenshots](C:\Users\schul\source\repos\Notes_4_Droids/Notes_4_Droids.png)
-
-![Screenshots](C:\Users\schul\source\repos\Notes_4_Droids/Notes_4_Droids2.png)
-
-![Screenshots](C:\Users\schul\source\repos\Notes_4_Droids/Notes_4_Droids3.png)
+![Screenshots](C:\Users\schul\source\repos\Notes_4_Droids.png)
